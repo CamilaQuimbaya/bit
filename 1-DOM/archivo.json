@@ -1,0 +1,19 @@
+{
+    "nombre": "Camilo",
+    "Apellidos": "Hernandez Mora",
+    "telefono": "00000",
+    "direccion": "Calle falsa 123",
+    "contactos": [
+        {
+            "nombre": "Luis",
+            "telefono": "1525224"
+        },
+        {
+            "nombre": "Jaime",
+            "telefono": "11200552"
+        }
+    ],
+    "estado": "activo",
+    "Multas": false
+}
+

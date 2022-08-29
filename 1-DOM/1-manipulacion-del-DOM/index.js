@@ -1,0 +1,5 @@
+//let contenedor = document.getElementById('contenedor')
+let enlace = document.querySelector('.enlace')
+let parrafo = document.querySelector('p')
+let contenedor = document.querySelector('#contenedor')
+let lista = document.querySelectorAll('ul')

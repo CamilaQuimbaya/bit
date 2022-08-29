@@ -1,0 +1,11 @@
+.tamaño{
+    font-size: 100px;
+    font-weight: 600;
+}
+.color{
+    color: cyan;
+}
+.decoracion{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
